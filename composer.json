@@ -1,6 +1,6 @@
 {
     "name": "meat/coming-soon",
-    "description": "Force a comming soon page if APP_COMINGSON variable is true on .env",
+    "description": "Force a comming soon page if APP_COMINGSOON variable is true on .env",
     "license": "MIT",
     "authors": [
         {
