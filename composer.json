@@ -1,0 +1,19 @@
+{
+    "name": "meat/coming-soon",
+    "description": "Force a comming soon page if APP_COMINGSON variable is true on .env",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonzalo De Spirito",
+            "email": "gdespirito@digitalmeat.cl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Meat\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
